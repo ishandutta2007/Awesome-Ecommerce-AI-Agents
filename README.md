@@ -105,6 +105,19 @@ Star the repo if you find it useful!
 - AI agents interacting with customer data must comply with privacy regulations (GDPR, CCPA).
 - Self-hosted open-source solutions require proper security, monitoring, and maintenance.
 
+## 📈 Star History
+
+<div align="center">
+	<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Ecommerce-AI-Agents&type=date&legend=bottom-right">
+	 <picture>
+	   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Ecommerce-AI-Agents&type=date&theme=dark&legend=bottom-right" />
+	   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Ecommerce-AI-Agents&type=date&legend=bottom-right" />
+	   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Ecommerce-AI-Agents&type=date&legend=bottom-right" />
+	 </picture>
+	</a>
+</div>
+
+
 ---
 
 **Made for ecommerce founders, marketers, developers, and growth teams.**  
