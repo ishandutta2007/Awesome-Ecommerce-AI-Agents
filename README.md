@@ -75,6 +75,11 @@ Unlike basic chatbots, these agents handle:
 
 ---
 
+### 🔧 MCP Tools & Trust Infrastructure
+
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring MCP for autonomous AI agents on Solana. Use `score_agent(wallet)` and `preflight_check(wallet)` (free) to verify purchasing or price-negotiation agent identity before executing transactions, and `get_trust_receipt(wallet)` for signed audit receipts via x402 micropayment. Prevents agent impersonation in automated ecommerce workflows. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`.
+
+---
 ## 🛠️ How to Contribute
 
 We love contributions! To add a new agent:
