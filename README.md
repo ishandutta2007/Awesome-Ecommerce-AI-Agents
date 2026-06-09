@@ -1,12 +1,21 @@
 # 🚀 Awesome Ecommerce AI Agents
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Ecommerce-AI-Agents/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 **A curated list of the best AI agents, SaaS platforms, and open-source projects for the Ecommerce ecosystem.**  
 *Boost store operations, customer support, and growth with autonomous AI.*
+
+</div>
 
 ---
 
