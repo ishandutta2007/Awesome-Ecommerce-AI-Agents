@@ -44,22 +44,22 @@ Unlike basic chatbots, these agents handle:
 
 ### 🚀 Core Platforms (AI Agents for Ecommerce)
 
-| Product | Description | Pricing (Starting) | Free Tier / Limits |
-| :--- | :--- | :--- | :--- |
-| **[Shopify Magic](https://www.shopify.com/magic)** | Native Shopify AI for descriptions, emails, and chat. | Included in Shopify | **100% Free** |
-| **[Tidio (Lyro)](https://www.tidio.com/)** | Conversational AI agent that resolves queries autonomously. | $29/mo + $0.50/conv. | Free basic plan |
-| **[Klaviyo AI](https://www.klaviyo.com/)** | Predictive analytics & Gen-AI for email/SMS marketing. | ~$20/mo | Free (250 contacts) |
-| **[StoreClaw](https://storeclaw.com/)** | Autonomous agent for store ops, support, and growth. | ~$5 - $20/mo | 5k credits/mo |
-| **[Relevance AI](https://relevanceai.com/)** | No-code builder for "AI Workforces" & BDRs. | $29/mo | 200 Actions/mo |
-| **[Gumloop](https://gumloop.com/)** | AI automation for batch processing & complex workflows. | $37/mo | 5k credits/mo |
-| **[Lindy.ai](https://www.lindy.ai/)** | AI personal assistant for task automation. | ~$19.99/mo | 400 credits/mo |
-| **[Gorgias AI Agent](https://www.gorgias.com/)** | Deeply integrated Shopify support agent. | $10/mo + usage | No free tier |
-| **[Ada AI](https://www.ada.ai/)** | Enterprise-grade AI customer experience agent. | Custom | No free tier |
-| **[Alhena AI](https://alhena.ai/)** | High-accuracy shopping assistant (Zero hallucinations). | ~$239/mo | 25 conv./mo |
-| **[Freshdesk](https://www.freshworks.com/freshdesk/)** | Scalable support with Freddy AI bot. | $15/mo per agent | Free features |
-| **[Rep AI](https://hellorep.ai/)** | Sales-focused AI agent that rescues carts. | $10/mo | Free (Limited) |
-| **[Zendesk AI](https://www.zendesk.com/)** | Omnichannel support with AI resolutions. | $55/agent/mo | No free tier |
-| **[Intercom (Fin)](https://www.intercom.com/)** | AI-first CS platform using Fin engine. | $29/seat/mo | No free tier |
+| Product | Description | Pricing (Starting) | Free Tier / Limits | Company Size (Val/Funding) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Shopify Magic](https://www.shopify.com/magic)** | Native Shopify AI for descriptions, emails, and chat. | Included in Shopify | **100% Free** | $161B |
+| **[Klaviyo AI](https://www.klaviyo.com/)** | Predictive analytics & Gen-AI for email/SMS marketing. | ~$20/mo | Free (250 contacts) | $9.8B |
+| **[Zendesk AI](https://www.zendesk.com/)** | Omnichannel support with AI resolutions. | $55/agent/mo | No free tier | $9.6B |
+| **[Freshdesk](https://www.freshworks.com/freshdesk/)** | Scalable support with Freddy AI bot. | $15/mo per agent | Free features | $3.45B |
+| **[Intercom (Fin)](https://www.intercom.com/)** | AI-first CS platform using Fin engine. | $29/seat/mo | No free tier | $2.0B |
+| **[Ada AI](https://www.ada.ai/)** | Enterprise-grade AI customer experience agent. | Custom | No free tier | $1.2B |
+| **[Gorgias AI Agent](https://www.gorgias.com/)** | Deeply integrated Shopify support agent. | $10/mo + usage | No free tier | $530M |
+| **[Tidio (Lyro)](https://www.tidio.com/)** | Conversational AI agent that resolves queries autonomously. | $29/mo + $0.50/conv. | Free basic plan | ~$400M |
+| **[Lindy.ai](https://www.lindy.ai/)** | AI personal assistant for task automation. | ~$19.99/mo | 400 credits/mo | $53M+ |
+| **[Relevance AI](https://relevanceai.com/)** | No-code builder for "AI Workforces" & BDRs. | $29/mo | 200 Actions/mo | $37M+ |
+| **[Gumloop](https://gumloop.com/)** | AI automation for batch processing & complex workflows. | $37/mo | 5k credits/mo | $17M+ |
+| **[Alhena AI](https://alhena.ai/)** | High-accuracy shopping assistant (Zero hallucinations). | ~$239/mo | 25 conv./mo | $12M |
+| **[Rep AI](https://hellorep.ai/)** | Sales-focused AI agent that rescues carts. | $10/mo | Free (Limited) | $10M |
+| **[StoreClaw](https://storeclaw.com/)** | Autonomous agent for store ops, support, and growth. | ~$5 - $20/mo | 5k credits/mo | Seed |
 
 ---
 
