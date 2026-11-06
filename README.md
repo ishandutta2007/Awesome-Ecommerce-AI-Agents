@@ -81,6 +81,8 @@ Unlike basic chatbots, these agents handle:
   Role-based multi-agent orchestration for marketing and support teams.
 - **[Phidata](https://github.com/phidatahq/phidata)** 🐘  
   Add memory, tools, and knowledge to your commerce agents.
+- **[Stall](https://github.com/bloriner/stall)** 🏪
+    Open-source MCP-native storefront kit ("WooCommerce for the agent economy") with a listing firewall against prompt-injection attacks via product listings.
 
 ---
 
