@@ -60,6 +60,7 @@ Unlike basic chatbots, these agents handle:
 | **[Alhena AI](https://alhena.ai/)** | High-accuracy shopping assistant (Zero hallucinations). | ~$239/mo | 25 conv./mo | $12M |
 | **[Rep AI](https://hellorep.ai/)** | Sales-focused AI agent that rescues carts. | $10/mo | Free (Limited) | $10M |
 | **[StoreClaw](https://storeclaw.com/)** | Autonomous agent for store ops, support, and growth. | ~$5 - $20/mo | 5k credits/mo | Seed |
+| **[Magistry](https://www.magistry.io)** | Agents that run marketing, ads, catalog, customer service and finance for Shopify, WooCommerce, Shopware, Magento and more, with approvals and undo. | $99/mo | Free (50 credits/mo) | Early-stage |
 
 ---
 
